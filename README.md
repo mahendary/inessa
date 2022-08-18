@@ -1,2 +1,0 @@
-# inessa
-Inessa technologies website
