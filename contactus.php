@@ -18,7 +18,7 @@ extract($_POST);
     $mail->Username = "afake8159@gmail.com";
     $mail->Password = "hyderabadkcr";
    
-     $mail->setFrom("venkat@trillionit.com", 'Inessa Technologies Pvt. Ltd.');
+     $mail->setFrom("venkat@trillionit.com", 'Inessa Technologies Private Limited.');
 
     $mail->Subject = "New Enquiry From Website";
     $mail->Body = "hello, Here's the graph generated";

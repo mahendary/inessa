@@ -6,7 +6,7 @@
         disableAt: false,
         customToggle: c,
         levelSpacing: 10,
-        navTitle: "Inessa Menu",
+        navTitle: "Mihy",
         levelTitles: true,
         levelTitles: true,
         labelClose: false,
